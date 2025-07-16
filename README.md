@@ -2,9 +2,6 @@
 
 <img width="1207" height="679" alt="Screenshot 2025-07-16 222808" src="https://github.com/user-attachments/assets/1ff0152d-64e4-435d-b267-59cccfee0701" />
 
-<img width="1195" height="657" alt="Screenshot 2025-07-16 225802" src="https://github.com/user-attachments/assets/6d18944b-fcac-4f3e-94ee-8e6931dc95a3" />
-
-<img width="1189" height="668" alt="Screenshot 2025-07-16 225744" src="https://github.com/user-attachments/assets/9401f764-6249-4edc-bb9e-2e90cbb1fd76" />
 
 # 1. Introduction
 This dashboard focuses on analyzing the tariff relationships between the United States and other countries. It highlights the imbalance between how much the USA is taxed (tariff to USA) compared to how much the USA taxes others (reciprocal tariffs). It brings attention to global trade inequalities, offering insight into the bilateral tariff gaps with each country.
@@ -23,7 +20,7 @@ Calculate the Tariff Gap to highlight unfair trade practices.
 Identify countries with high differentials for focused policy reviews.
 <img width="1195" height="657" alt="Screenshot 2025-07-16 225802" src="https://github.com/user-attachments/assets/6d18944b-fcac-4f3e-94ee-8e6931dc95a3" />
 
-<img width="1189" height="668" alt="Screenshot 2025-07-16 225744" src="https://github.com/user-attachments/assets/9401f764-6249-4edc-bb9e-2e90cbb1fd76" />
+
 # 3. Audience & Context
 Intended Audience:
 Trade policy makers and government officials
@@ -51,7 +48,7 @@ Reciprocal Tariff: Tariffs the USA imposes on imports from those countries
 Timeframe: Cumulative and comparative — not specific to a single year
 
 Regions Covered: Asia, Europe, Africa, North America, and Australia
-
+<img width="1189" height="668" alt="Screenshot 2025-07-16 225744" src="https://github.com/user-attachments/assets/9401f764-6249-4edc-bb9e-2e90cbb1fd76" />
 # 5. Dashboard Overview
 Main Metrics (Top Center):
 Tariff to USA: 20.63
